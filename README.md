@@ -14,21 +14,21 @@ We focused on the following questions when analyzing and creating the visualizat
 4. What type of user is using the bikes (subscriber or one-time payment customer)?
 
 ### The Answers
-1. This visualization shows where users start or end their rides.
+1. Users start or end their rides mainly focused in manhattan.
 
     ![vis1](images/vis1.png)
 
-2. These visualizations show the number of users and the amount of time that each particular rider uses the bike for by hour and minutes per hour. The first shows general users and the second shows users by gender.
+2. Below is the number of users and the amount of time that each particular rider uses the bike for by hour and minutes per hour. First is general users and second is users by gender.
 
     ![vis2](images/vis2.png)
     ![vis3](images/vis3.png)
 
-3. These visualizations show the number of users that check bikes out each hour of each day of the week. The first shows general users and the second shows users by gender.
+3. The number of users that check bikes out each hour of each day of the week can be seen in the heat graphs below. The first is general users and the second is users by gender.
 
     ![vis4](images/vis4.png)
     ![vis5](images/vis5.png)
 
-4. This visualization shows the number of users, separated by user type (one-time payment customer and subscriber), that use CitiBikes each day of the week.
+4. Showcased in the heat graphs below is the number of users, separated by user type (one-time payment customer and subscriber), that use CitiBikes each day of the week.
 
     ![vis6](images/vis6.png)
 
