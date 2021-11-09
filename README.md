@@ -14,7 +14,7 @@ We focused on the following questions when analyzing and creating the visualizat
 4. What type of user is using the bikes (subscriber or one-time payment customer)?
 
 ### The Answers
-1. Users start or end their rides mainly focused in manhattan.
+1. Seen in the following maps, users tend to start or end their rides mainly in Manhattan below Central Park (60th street).
 
     ![vis1](images/vis1.png)
 
